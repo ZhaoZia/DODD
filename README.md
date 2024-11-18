@@ -9,7 +9,7 @@ The Disaster Occlusion Detection Dataset (DODD) is a specialized dataset created
 ## Composition of the Dataset
 
 DODD is a compilation of images from multiple publicly accessible datasets, selected and assembled to create challenging occlusion-heavy scenes. The dataset includes a total of 121 images, featuring:
-- **Individuals partially occluded by environmental elements** such as debris, vegetation, and floodwater.
+- **101 negative samples. Individuals partially occluded by environmental elements** such as debris, vegetation, and floodwater.
 - **20 negative samples** (images without any human presence), to serve as control cases for evaluation.
 
 ## Source Datasets
